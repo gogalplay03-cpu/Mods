@@ -1,20 +1,5 @@
 [
   {
-    "id": 9,
-    "name": "Infinity Dungeons",
-    "description": "Infinity Dungeons is a Minecraft add-on that generates endless procedurally created dungeons filled with monsters, loot, and challenges for continuous exploration and combat.",
-    "image": "https://i.ibb.co/YTWLDQGb/image-6547142601.jpg",
-    "url": "https://files.catbox.moe/07gfj7.mcaddon",
-    "category": "Creatures",
-    "version": "unknown",
-    "author": "Creeperfile",
-    "size": "6.7",
-    "tags": [
-      "Dungeons",
-      "Exploration"
-    ]
-  },
-  {
     "id": 8,
     "name": "Cave Biomes Add-on",
     "description": "Cave Biomes Add-on is a Minecraft Bedrock add-on that expands caves with new biome types, unique underground environments, and custom cave generation for more variety and exploration.",

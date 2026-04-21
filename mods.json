@@ -1,0 +1,98 @@
+[
+  {
+    "id": 8,
+    "name": "Cave Biomes Add-on",
+    "description": "Cave Biomes Add-on is a Minecraft Bedrock add-on that expands caves with new biome types, unique underground environments, and custom cave generation for more variety and exploration.",
+    "image": "https://i.postimg.cc/k55MJT1s/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/03a3iafcdwwxk4k/Cave_Biomes_Add-On_By_Creeperfile.mcaddon/file",
+    "category": "World",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "9.8 MB",
+    "tags": ["Caves", "Biomes", "Exploration"]
+  },
+  {
+    "id": 7,
+    "name": "Furniture City",
+    "description": "Furniture City is a Minecraft add-on that adds a fully furnished city with detailed interiors, modern buildings, and decorative furniture to explore and use.",
+    "image": "https://i.postimg.cc/FHDn4pJ4/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/0xs2c56fomvltn3/Furniture_City_by_Creeperfile.mcaddon/file",
+    "category": "Building",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "1.4 MB",
+    "tags": ["Furniture", "Modern"]
+  },
+  {
+    "id": 6,
+    "name": "Morph into mobs!",
+    "description": "Morph into Mobs! is a Minecraft add-on that lets you transform into different mobs in the game, gaining their abilities, appearance, and special powers.",
+    "image": "https://i.postimg.cc/8cRNKMYx/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/sl9fbz8kbc6fes9/MORPH_into_MOBS%2521_by_Creeperfile.mctemplate/file",
+    "category": "World",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "5.8 MB",
+    "tags": ["Morph", "Abilities", "fantasy"]
+  },
+  {
+    "id": 5,
+    "name": "Anime jutsu Add-on",
+    "description": "The Anime Jutsu Add-on is a Minecraft mod that adds anime-style powers, jutsus, energy systems, and boss fights, turning normal combat into an anime-inspired fighting experience.",
+    "image": "https://i.postimg.cc/0jnsD7bF/photo-2026-04-15-12-06-27.jpg",
+    "url": "https://www.mediafire.com/file/a390cp1j750jqxa/Anime_Jutsu_1.2.1_Add-On.mcaddon/file",
+    "category": "Creatures",
+    "version": "1.21",
+    "author": "creeperfile",
+    "size": "21.4 MB",
+    "tags": ["Anime", "creatures", "fantasy"]
+  },
+  {
+    "id": 4,
+    "name": "Park of Horrors map",
+    "description": "It’s a horror theme park in Minecraft with mini-games, jumpscares, and fighting ghosts/monsters inside different rides and areas.",
+    "image": "https://i.postimg.cc/YSQCJjXj/photo-2026-04-15-12-44-58.jpg",
+    "url": "https://www.mediafire.com/file/qdy3kgn82mawftv/Park_of_Horrors_%2528world_template%2529.mctemplate/file",
+    "category": "World",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "20.7 MB",
+    "tags": ["World", "map", "building"]
+  },
+  {
+    "id": 3,
+    "name": "Marvel Zombies Add-on",
+    "description": "Marvel Zombies Add-on is a Minecraft mod that turns the world into a zombie apocalypse featuring Marvel characters like zombified heroes and villains, along with new enemies, powers, and weapons.",
+    "image": "https://i.postimg.cc/xC0N5K9F/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/wimdz769zzt7856/Marvel_Zombies_Add-On.mcaddon/file",
+    "category": "Powers",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "22.7 MB",
+    "tags": ["superhero", "powers", "Zombies"]
+  },
+  {
+    "id": 2,
+    "name": "DreamWorks Dragon map",
+    "description": "DreamWorks Dragons Map (Minecraft) is an official Minecraft Bedrock DLC/map based on How to Train Your Dragon, where you explore the island of Berk, ride dragons, complete missions, and live in the DreamWorks dragon world.",
+    "image": "https://i.postimg.cc/htsXjXLr/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/qojkbw3e3qy4pip/how_to_train_your_dragon_map.mctemplate/file",
+    "category": "World",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "34.6 MB",
+    "tags": ["Worlds", "maps", "fantasy"]
+  },
+  {
+    "id": 1,
+    "name": "Mob Weapons Add-on",
+    "description": "Mob Weapons Add-on is a Minecraft Bedrock addon that lets you craft and use special weapons inspired by mobs, each with unique powers, animations, and abilities.",
+    "image": "https://i.postimg.cc/6pMCPjmQ/photo-2026-04-15-13-03-31.jpg",
+    "url": "https://www.mediafire.com/file/g7kci6tkfvs2002/Mob_Weapons.mcaddon/file",
+    "category": "Weapons",
+    "version": "؟؟؟",
+    "author": "creeperfile",
+    "size": "2.5 MB",
+    "tags": ["Weapons", "Combat", "fantasy"]
+  }
+]

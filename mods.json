@@ -1,5 +1,20 @@
 [
   {
+    "id": 10,
+    "name": "Pop-Ups Add-on",
+    "description": "Pop-Ups Add-on is a Minecraft add-on that adds pre-made structures, building blueprints, and ready-to-place constructions like houses and buildings for quick world building and design.",
+    "image": "https://i.ibb.co/LzPGTCLw/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/llhxdd.mcaddon",
+    "category": "Building",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "5.4 MB",
+    "tags": [
+      "Blueprints",
+      "Structures"
+    ]
+  },
+  {
     "id": 9,
     "name": "Infinity Dungeons",
     "description": "Infinity Dungeons is a Minecraft add-on that generates endless procedurally created dungeons filled with monsters, loot, and challenges for continuous exploration and combat.",

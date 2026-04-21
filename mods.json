@@ -1,5 +1,20 @@
 [
   {
+    "id": 9,
+    "name": "Infinity Dungeons",
+    "description": "Infinity Dungeons is a Minecraft add-on that generates endless procedurally created dungeons filled with monsters, loot, and challenges for continuous exploration and combat.",
+    "image": "https://i.ibb.co/YTWLDQGb/image-6547142601.jpg",
+    "url": "https://files.catbox.moe/07gfj7.mcaddon",
+    "category": "Creatures",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "6.7",
+    "tags": [
+      "Dungeons",
+      "Exploration"
+    ]
+  },
+  {
     "id": 8,
     "name": "Cave Biomes Add-on",
     "description": "Cave Biomes Add-on is a Minecraft Bedrock add-on that expands caves with new biome types, unique underground environments, and custom cave generation for more variety and exploration.",
@@ -9,7 +24,11 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "9.8 MB",
-    "tags": ["Caves", "Biomes", "Exploration"]
+    "tags": [
+      "Caves",
+      "Biomes",
+      "Exploration"
+    ]
   },
   {
     "id": 7,
@@ -21,7 +40,10 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "1.4 MB",
-    "tags": ["Furniture", "Modern"]
+    "tags": [
+      "Furniture",
+      "Modern"
+    ]
   },
   {
     "id": 6,
@@ -33,7 +55,11 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "5.8 MB",
-    "tags": ["Morph", "Abilities", "fantasy"]
+    "tags": [
+      "Morph",
+      "Abilities",
+      "fantasy"
+    ]
   },
   {
     "id": 5,
@@ -45,7 +71,11 @@
     "version": "1.21",
     "author": "creeperfile",
     "size": "21.4 MB",
-    "tags": ["Anime", "creatures", "fantasy"]
+    "tags": [
+      "Anime",
+      "creatures",
+      "fantasy"
+    ]
   },
   {
     "id": 4,
@@ -57,7 +87,11 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "20.7 MB",
-    "tags": ["World", "map", "building"]
+    "tags": [
+      "World",
+      "map",
+      "building"
+    ]
   },
   {
     "id": 3,
@@ -69,7 +103,11 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "22.7 MB",
-    "tags": ["superhero", "powers", "Zombies"]
+    "tags": [
+      "superhero",
+      "powers",
+      "Zombies"
+    ]
   },
   {
     "id": 2,
@@ -81,7 +119,11 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "34.6 MB",
-    "tags": ["Worlds", "maps", "fantasy"]
+    "tags": [
+      "Worlds",
+      "maps",
+      "fantasy"
+    ]
   },
   {
     "id": 1,
@@ -93,6 +135,10 @@
     "version": "؟؟؟",
     "author": "creeperfile",
     "size": "2.5 MB",
-    "tags": ["Weapons", "Combat", "fantasy"]
+    "tags": [
+      "Weapons",
+      "Combat",
+      "fantasy"
+    ]
   }
 ]

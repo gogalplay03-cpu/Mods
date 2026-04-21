@@ -1,5 +1,20 @@
 [
   {
+    "id": 11,
+    "name": "Hydra Bosses",
+    "description": "Hydra Bosses is a Minecraft add-on that adds powerful hydra boss creatures with multiple heads, special attacks, and challenging combat encounters for players.",
+    "image": "https://i.ibb.co/Dgbw1KcF/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/gvq9qm.mcaddon",
+    "category": "Creatures",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "9.6 MB",
+    "tags": [
+      "Bosses",
+      "Monsters"
+    ]
+  },
+  {
     "id": 10,
     "name": "Pop-Ups Add-on",
     "description": "Pop-Ups Add-on is a Minecraft add-on that adds pre-made structures, building blueprints, and ready-to-place constructions like houses and buildings for quick world building and design.",

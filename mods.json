@@ -1,5 +1,20 @@
 [
   {
+    "id": 16,
+    "name": "ADVENTURE CRAFT Add-On",
+    "description": "ADVENTURE CRAFT Add-On is a Minecraft add-on that enhances exploration and survival gameplay with new mechanics, features, and world improvements for a more adventurous experience.",
+    "image": "https://i.ibb.co/Jf3FKVC/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/6tuegn.mcaddon",
+    "category": "Adventure",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "18.6 MB",
+    "tags": [
+      "Exploration",
+      "Survival"
+    ]
+  },
+  {
     "id": 15,
     "name": "Airplanes Add-On",
     "description": "Airplanes Add-On is a Minecraft add-on that adds flyable airplanes, allowing players to travel quickly through the world and explore from the sky.",

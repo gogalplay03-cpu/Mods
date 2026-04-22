@@ -1,5 +1,20 @@
 [
   {
+    "id": 12,
+    "name": "Furniture Add-on",
+    "description": "Furniture Add-on is a Minecraft add-on that adds a variety of decorative furniture like sofas, tables, and appliances to design and customize your builds.",
+    "image": "https://i.ibb.co/TxVqrbd8/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/yrevji.mcaddon",
+    "category": "Building",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "6.0 MB",
+    "tags": [
+      "Furniture",
+      "Decoration"
+    ]
+  },
+  {
     "id": 11,
     "name": "Hydra Bosses",
     "description": "Hydra Bosses is a Minecraft add-on that adds powerful hydra boss creatures with multiple heads, special attacks, and challenging combat encounters for players.",

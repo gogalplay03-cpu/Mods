@@ -1,5 +1,20 @@
 [
   {
+    "id": 15,
+    "name": "Airplanes Add-On",
+    "description": "Airplanes Add-On is a Minecraft add-on that adds flyable airplanes, allowing players to travel quickly through the world and explore from the sky.",
+    "image": "https://i.ibb.co/n8LZPKT9/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/3eolpf.mcaddon",
+    "category": "Adventure",
+    "version": "unknown",
+    "author": "Creeperfile",
+    "size": "14.8 MB",
+    "tags": [
+      "Vehicles",
+      "Flying"
+    ]
+  },
+  {
     "id": 14,
     "name": "Advanced Machines Add-on",
     "description": "Advanced Machines Add-on is a Minecraft add-on that introduces automated machines, generators, and advanced technology to improve resource processing and efficiency.",

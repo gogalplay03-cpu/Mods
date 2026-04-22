@@ -1,5 +1,20 @@
 [
   {
+    "id": 14,
+    "name": "Advanced Machines Add-on",
+    "description": "Advanced Machines Add-on is a Minecraft add-on that introduces automated machines, generators, and advanced technology to improve resource processing and efficiency.",
+    "image": "https://i.ibb.co/cSwCxkqy/image-6547142601.jpg",
+    "url": "https://litter.catbox.moe/y7vmo0.mcaddon",
+    "category": "World",
+    "version": "unknown",
+    "author": "unknown",
+    "size": "unknown",
+    "tags": [
+      "Machines",
+      "Automation"
+    ]
+  },
+  {
     "id": 13,
     "name": "Supplementaries",
     "description": "Supplementaries is a Minecraft add-on that adds various small decorative blocks and useful items to enhance building and everyday gameplay.",
